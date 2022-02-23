@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Design preview for the QR code component coding challenge disktop version](./images/Screenshot 2022-02-23 at 21-51-58 Frontend Mentor QR code component.png)
-![Design preview for the QR code component coding challenge mobile version](./images/Screen Shot 2022-02-23 at 21.53.11.png)
+![](./images/Screenshot 2022-02-23 at 21-51-58 Frontend Mentor QR code component.png)
+![](./images/Screen Shot 2022-02-23 at 21.53.11.png)
 
 ### Links
 
@@ -33,5 +33,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mohamed-Waled)
-- Linkedin - [@yourusername](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
+- Frontend Mentor - [@Mohamed-Waled](https://www.frontendmentor.io/profile/Mohamed-Waled)
+- Linkedin - [@mohamed-waled](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
