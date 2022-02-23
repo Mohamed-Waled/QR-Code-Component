@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/qr-code-page-using-css-flex-7VC7JyaPb)
 - Live Site URL: [live site URL here](https://mohamed-waled.github.io/Qr-Code-Component-Main/)
 
 ## My process
